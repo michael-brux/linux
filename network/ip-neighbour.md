@@ -1,12 +1,14 @@
-# ip-neighbour - neighbour/arp tables management.
+# ip-neighbour - neighbour/arp tables management
 
-https://manpages.debian.org/unstable/iproute2/ip-neighbour.8.en.html
+For more detailed information, refer to the [ip-neighbour](https://manpages.debian.org/unstable/iproute2/ip-neighbour.8.en.html) manpage.
 
+Use
 ```
 ip neigh show
 ```
+to show the neighbour entries.
 
-for output in JSON:
+For output in JSON:
 ```
 ip -json -pretty neigh show
 ```
