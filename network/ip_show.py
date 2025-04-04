@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import subprocess
 import json
 
@@ -18,8 +20,12 @@ def show_route():
     return run_ip_show('route')
 
 if __name__ == "__main__":
+    print()
     print("Link:", show_link())
-    print("Neigh:", show_neigh())   
+    print()
+    print("Neigh:", show_neigh())
+    print()
     print("Route:", show_route())
+    print()
     print("Addr:", show_addr())
-    
+    print()
