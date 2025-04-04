@@ -30,4 +30,3 @@ class MagicPacket:
 # packet = magic_packet.create_packet()
 # print(packet)
 # magic_packet.send_packet("192.168.1.255")
-
