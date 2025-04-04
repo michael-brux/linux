@@ -26,4 +26,3 @@ In short, a Magic Packet is a **specially formatted network message containing t
 
 ## Sources
 - [Wake-on-LAN Wikipedia](https://en.wikipedia.org/wiki/Wake-on-LAN)
-- [Intel Wake-on-LAN](https://www.intel.com/content/www/us/en/support/articles/000007453/network-and-io/ethernet-products.html)
